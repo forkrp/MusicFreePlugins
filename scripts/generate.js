@@ -35,7 +35,7 @@ async function run() {
         }
     }))
 
-    await fs.writeFile(path.resolve(pluginPath, 'plugins.json'), JSON.stringify(output));
+    await fs.writeFile(path.resolve(pluginPath, 'plugins.json'), JSON.stringify(output, undefined, 2));
     await fs.copyFile(path.resolve(pluginPath, 'plugins.json'), path.resolve(__dirname, '../plugins.json'))
     console.log('done√');
 

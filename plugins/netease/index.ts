@@ -629,7 +629,7 @@ module.exports = {
   version: "0.2.3",
   appVersion: ">0.1.0-alpha.0",
   srcUrl:
-    "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/netease/index.js",
+    "https://raw.githubusercontent.com/forkrp/MusicFreePlugins/myplugins/dist/netease/index.js",
   cacheControl: "no-store",
   hints: {
     importMusicSheet: [

@@ -592,7 +592,7 @@ module.exports = {
   author: "猫头猫",
   version: "0.2.2-alpha.3",
   srcUrl:
-    "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/qq/index.js",
+    "https://raw.githubusercontent.com/forkrp/MusicFreePlugins/myplugins/dist/qq/index.js",
   cacheControl: "no-cache",
   hints: {
     importMusicSheet: [

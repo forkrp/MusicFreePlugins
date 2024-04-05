@@ -530,7 +530,7 @@ module.exports = {
   author: "猫头猫",
   cacheControl: "no-cache",
   srcUrl:
-    "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
+    "https://raw.githubusercontent.com/forkrp/MusicFreePlugins/myplugins/dist/bilibili/index.js",
   primaryKey: ["id", "aid", "bvid", "cid"],
   hints: {
     importMusicSheet: [

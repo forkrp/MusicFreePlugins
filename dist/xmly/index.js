@@ -164,7 +164,7 @@ module.exports = {
     author: '猫头猫',
     version: "0.1.6",
     supportedSearchType: ["music", "album", "artist"],
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/xmly/index.js",
+    srcUrl: "https://raw.githubusercontent.com/forkrp/MusicFreePlugins/myplugins/dist/xmly/index.js",
     cacheControl: "no-cache",
     search,
     getAlbumInfo,
